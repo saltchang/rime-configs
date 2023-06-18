@@ -1,5 +1,7 @@
 # Rime Config
 
+Custom configs for Onion Rime IME.
+
 ## Install Fonts
 
 * [Noto Sans TC](https://fonts.google.com/noto/specimen/Noto+Sans+TC)
