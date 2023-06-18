@@ -1,0 +1,24 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.15.0.0
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Sun Jun 18 15:52:49 2023"
+  rime_version: 1.8.5
+patch:
+  "style/color_scheme": steam
+  "style/font_face": "Noto Sans TC"
+  "style/label_font_face": "Noto Sans Mono"
+  "style/comment_font_face": "Noto Sans TC"
+  "style/font_point": 16
+  "style/label_font_point": 8
+  "style/label_format": "%s"
+  "style/layout/border": 0
+  "style/layout/border_width": 0
+  "style/layout/candidate_spacing": 5
+  "style/layout/hilite_padding": 4
+  "style/layout/hilite_spacing": 8
+  "style/layout/margin_x": 12
+  "style/layout/margin_y": 7
+  "style/layout/round_corner": 8
+  "style/layout/spacing": 5
+  "style/layout/align_type": center
